@@ -1,5 +1,6 @@
 aes
 ===
+Join Zoom Meeting: https://Dell.zoom.us/j/93649646772?pwd=alZLMmxYVFkxNDF1ejhQaVVzdjdzUT09
 
 A JavaScript component for the [Advanced Encryption Standard (AES)](http://en.wikipedia.org/wiki/Advanced_Encryption_Standard). Fully compatible with Node.js and the browser (via Browserify).
 
